@@ -15,7 +15,11 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">bsnes2014-performance v094 (Performance)</summary>
-		<description lang="en_GB">Supported files: .sfc, .smc, .bml</description>
+		<description lang="en_GB">Libretro fork of bSNES. As close to upstream as possible.
+
+The &#34;Performance&#34; profile focusses more on execution speed than on accuracy.
+
+Supported files: .sfc, .smc, .bml</description>
 		<license></license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.bsnes2014-performance</source>
