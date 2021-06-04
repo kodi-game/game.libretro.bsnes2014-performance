@@ -17,7 +17,7 @@
 		<summary lang="en_GB">bsnes2014-performance v094 (Performance)</summary>
 		<description lang="en_GB">Libretro fork of bSNES. As close to upstream as possible.
 
-The &#34;Performance&#34; profile focusses more on execution speed than on accuracy.
+The &#34;Performance&#34; profile focuses more on execution speed than on accuracy.
 
 Supported files: .sfc, .smc, .bml</description>
 		<license></license>
