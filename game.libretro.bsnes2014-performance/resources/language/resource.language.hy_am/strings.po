@@ -21,7 +21,7 @@ msgid "Nintendo - SNES / SFC (bsnes 2014 Performance) v094 (Performance)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The &#34;Performance&#34; profile focuses more on execution speed than on accuracy."
+msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The \"Performance\" profile focuses more on execution speed than on accuracy."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
