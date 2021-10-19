@@ -4,27 +4,29 @@
 # Nintendo - SNES / SFC (bsnes 2014 Performance)
 
 ### Description
+
 A libretro fork of bSNES. As close to upstream as possible.
 
-The "Performance" profile focuses more on execution speed than on accuracy.
+The *Performance* profile focuses more on execution speed than on accuracy.
 
 ### License
+
 GPLv3
 
 ### Icon
 
 ![Icon](game.libretro.bsnes2014-performance/resources/icon.png)
 
+### Fanart
+
+Help make me fanart!
+
 ### Screenshots
 
 ![Screenshot](game.libretro.bsnes2014-performance/resources/screenshot-01.jpg)
-
 ![Screenshot](game.libretro.bsnes2014-performance/resources/screenshot-02.jpg)
-
 ![Screenshot](game.libretro.bsnes2014-performance/resources/screenshot-03.jpg)
-
 
 ### Disclaimer
 
 *In loving memory of Near / Byuu*
-
