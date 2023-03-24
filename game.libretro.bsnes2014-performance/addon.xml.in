@@ -24,7 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes 2014 Performance) v094 (Performance)</summary>
+		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes 2014 Performance)</summary>
 		<description lang="da_DK">En libretro-fork af bSNES. Så tæt på upstream som muligt.[CR][CR]Profilen [I]Ydeevne[/I] fokuserer mere på udførelseshastighed end på nøjagtighed.</description>
 		<description lang="de_DE">Eine libretro-Fork von bSNES. So nah am Vorbild wie möglich.[CR][CR]Das [I]Performance[/I]-Profil konzentriert sich mehr auf die Ausführungsgeschwindigkeit als auf die Genauigkeit.</description>
 		<description lang="en_GB">A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The [I]Performance[/I] profile focuses more on execution speed than on accuracy.</description>
