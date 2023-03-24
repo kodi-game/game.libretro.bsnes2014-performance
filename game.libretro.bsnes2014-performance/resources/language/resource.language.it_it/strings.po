@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.14.2\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - SNES / SFC (bsnes 2014 Performance) v094 (Performance)"
+msgid "Nintendo - SNES / SFC (bsnes 2014 Performance)"
 msgstr ""
 
 msgctxt "Addon Description"
