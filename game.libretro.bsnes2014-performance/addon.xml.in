@@ -30,6 +30,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Nintendo - SNES / SFC (bsnes 2014 Performance)</summary>
 		<summary lang="da_DK">Nintendo - SNES / SFC (bsnes 2014 Performance)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes 2014 Performance)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (bsnes 2014 Rendimiento)</summary>
@@ -39,6 +40,7 @@
 		<summary lang="ru_RU">Nintendo - SNES / SFC (bsnes 2014 Performance)</summary>
 		<summary lang="sv_SE">Nintendo - SNES / SFC (bsnes 2014 Performance)</summary>
 		<summary lang="zh_CN">任天堂 - SNES / SFC（bsnes 2014 性能）</summary>
+		<description lang="cs_CZ">Verze odvozená od bSNES pro libretro. Snaží se zůstat co nejblíže upstreamu.[CR][CR]Profil [I]Performance[/I] se zaměřuje více na rychlost běhu než na přesnost.</description>
 		<description lang="da_DK">En libretro-fork af bSNES. Så tæt på upstream som muligt.[CR][CR]Profilen [I]Ydeevne[/I] fokuserer mere på udførelseshastighed end på nøjagtighed.</description>
 		<description lang="de_DE">Eine libretro-Fork von bSNES. So nah am Vorbild wie möglich.[CR][CR]Das [I]Performance[/I]-Profil konzentriert sich mehr auf die Ausführungsgeschwindigkeit als auf die Genauigkeit.</description>
 		<description lang="en_GB">A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The [I]Performance[/I] profile focuses more on execution speed than on accuracy.</description>
@@ -49,6 +51,7 @@
 		<description lang="ru_RU">Форк bSNES, работающий в стиле Libretro. Максимально приближен к апстриму.[CR][CR]Профиль [I]Производительность[/I] больше ориентирован на скорость выполнения, чем на точность.</description>
 		<description lang="sv_SE">En libretro-förgrening av bSNES. Så nära uppströms som möjligt.[CR][CR]Profilen [I]Performance[/I] fokuserar mer på exekveringshastighet än på noggrannhet.</description>
 		<description lang="zh_CN">bSNES 的 libretro 分支。尽可能接近原始项目。[CR][CR][I]性能[/I] 配置文件更多地关注执行速度，而不是准确性。</description>
+		<disclaimer lang="cs_CZ">S láskou na památku Near / Byuu</disclaimer>
 		<disclaimer lang="da_DK">I kærligt minde om Near / Byuu</disclaimer>
 		<disclaimer lang="de_DE">In liebevoller Erinnerung an Near / Byuu</disclaimer>
 		<disclaimer lang="en_GB">In loving memory of Near / Byuu</disclaimer>
